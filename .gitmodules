@@ -1,6 +1,6 @@
 [submodule "rebucket"]
 	path = rebucket
-	url = https://github.com/ZhangShurong/rebucket.git
+	url = git@github.com:haoyang9804/rebucket.git
 [submodule "infozilla"]
 	path = infozilla
-	url = https://github.com/cicerolp/infozilla.git
+	url = git@github.com:haoyang9804/infozilla.git
